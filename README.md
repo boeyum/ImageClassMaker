@@ -24,4 +24,4 @@ This call returns an image in the format:
 This application does not use any library without those standard in java.
 
 ## License
-* Licensed under the Apache License, version 2.0*[her](https://www.apache.org/licenses/LICENSE-2.0)
+* Licensed under the Apache License, version 2.0 *[her](https://www.apache.org/licenses/LICENSE-2.0)
