@@ -6,9 +6,9 @@ The application is started with the default parameter. However, there are standa
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;./images (that contains the image that should be converted)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;./data &nbsp;&nbsp;&nbsp;&nbsp;(that contains the java class of the converted image)<br><br>
 The parameters of the application are:<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-i = Image type (can contain ".png", ".jpg" or ".jpeg")<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-c = Image and class name (without image extention).<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-p = Package name.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-i = Image name with extention (extention may be ".png", ".jpg" or ".jpeg")<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-c = Name of the output class<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-p = Package name. (e.g. "eu.name.utillities")<br>
 ## Implemented functions in the class
 ### getLogo()
 This call returns an image in the format:
