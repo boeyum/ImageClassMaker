@@ -1,6 +1,6 @@
 # ImageClassMaker - Make java class that contains image
 ## Overview
-This utillity creates a java class that contains an accessible image that can be implemented in an application. This can be useful if you need an image / logo etc that can not be on an accessible media. The development has been done with the IntelliJ IDE commuity version, and the project is set up for this.
+This utillity creates a java class that contains an accessible image that can be implemented in an application. This can be useful if you need an image / logo etc that can not be on an accessible media. The development has been done with the IntelliJ IDE community version, and the project is set up for this.
 ## How to use the application
 The application is started with the default parameter. However, there are standard input and output directories defined in the application. These are:<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;./images (that contains the image that should be converted)<br>
