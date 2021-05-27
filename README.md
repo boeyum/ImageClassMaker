@@ -9,3 +9,19 @@ The parameters of the application are:<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-i = Image type (can contain ".png", ".jpg" or ".jpeg")<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-c = Image and class name (without image extention).<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-p = Package name.<br>
+## Implemented functions in the class
+### getLogo()
+This call returns an image in the format:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;java.awt.image.BufferedImage
+
+### getLogoBytes()
+This call returns an image in the format:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;byte[ ]
+
+## Included Java libraries
+This application does not use any library without those standard in java.
+
+## License
+* Licensed under the Apache License, version 2.0*[her](https://www.apache.org/licenses/LICENSE-2.0)
